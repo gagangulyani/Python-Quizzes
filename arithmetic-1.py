@@ -19,7 +19,7 @@ Solution
 
 2. 10
 
-Explaination:
+Explanation:
     -> (100 // 10) + 100 - (10 * 10)
     -> 10 + 100 - 100
     -> 10
