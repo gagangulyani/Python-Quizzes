@@ -21,7 +21,7 @@ Solution
 
 3. 2
 
-Explaination:
+Explanation:
     >>> (10 and 1) + (0 or 1) ** 2
     
     * Here, when we use "and", the second value will return if

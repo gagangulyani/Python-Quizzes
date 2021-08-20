@@ -20,7 +20,7 @@ Solution
 
 3. 12.0
 
-Explaination:
+Explanation:
     -> (12 * 12) ** 0.5 (Square Root)
     -> 144 ** 0.5
     -> 12.0
