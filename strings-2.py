@@ -34,10 +34,10 @@ B) Pytho
 Explanation
 ============
 
-=> \n is an escape sequence (new line)
+=> \n is an escape sequence (newline)
 
 => f-strings (s) don't do anything special for escape sequences,
-they will be interprated as escape sequence is.
+they will be interpreted as escape sequence is.
 
 => raw stings (s1) ignore don't interpret escape sequences.
 
