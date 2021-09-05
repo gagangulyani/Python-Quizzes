@@ -39,7 +39,7 @@ Explanation
 => f-strings (s) don't do anything special for escape sequences,
 they will be interpreted as escape sequence is.
 
-=> raw stings (s1) ignore don't interpret escape sequences.
+=> raw stings (s1) ignore (don't interpret) escape sequences.
 
 Therefore...
 
